@@ -1,1 +1,1 @@
-# Team-Arise-GitHub
+# Record Keeping Software For Lab Activities -GitHub
